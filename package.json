@@ -1,0 +1,25 @@
+{
+  "name": "noised",
+  "version": "0.1.0",
+  "description": "noisejs as an npm module",
+  "main": "perlin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caged/noisejs.git"
+  },
+  "keywords": [
+    "noise",
+    "noisejs",
+    "simplex",
+    "perlin"
+  ],
+  "author": "josephg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caged/noisejs/issues"
+  },
+  "homepage": "https://github.com/Caged/noisejs#readme"
+}
